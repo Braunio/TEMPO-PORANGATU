@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     background-color: rgb(0, 0, 0);
-    display: flex;
+    display: height="576px" width="288px";
     justify-content: left;
 }
 .left{
